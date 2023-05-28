@@ -27,7 +27,7 @@ ClimaView is a weather app that allows you to explore the world of weather by pr
 ## Installation
 
 1. Clone the repository:
-```bash
+```shell
 $ git clone https://github.com/drishyakarki/ClimaView-Explore-the-World-of-Weather.git
 ```
 
